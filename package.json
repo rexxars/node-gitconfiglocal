@@ -1,6 +1,6 @@
 {
   "name": "@rexxars/gitconfiglocal",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "parse the .git/config file into a useful data structure",
   "files": [
     "index.js",
