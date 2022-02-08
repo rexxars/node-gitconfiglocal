@@ -9,7 +9,7 @@ parse the `.git/config` file into a useful data structure
 - search config in $GIT_DIR (.git by default)
 
 ```js
-var gitconfig = require('gitconfiglocal');
+var gitconfig = require('@rexxars/gitconfiglocal');
 
 gitconfig('./').then((config) => {
   console.log(config);
